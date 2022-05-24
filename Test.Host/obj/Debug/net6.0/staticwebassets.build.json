@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pqtVr+kOShkvJdtD5wDKzJg6aEueU4EWMSNazRu0Ur8=",
+  "Source": "Test.Host",
+  "BasePath": "_content/Test.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

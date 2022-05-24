@@ -1,0 +1,45 @@
+2022-05-24 18:02:08.5464 INFO Finding Users
+2022-05-24 18:02:08.5668 INFO Ip Address :::1
+2022-05-24 18:02:43.4499 INFO Finding Users
+2022-05-24 18:02:43.4699 INFO Ip Address :::1
+2022-05-24 18:03:48.3115 INFO Ip Address :::1
+2022-05-24 18:03:48.3115 INFO Finding User
+2022-05-24 18:04:55.1043 INFO Ip Address :::1
+2022-05-24 18:04:55.8019 INFO Finding User
+2022-05-24 18:07:11.5024 INFO Ip Address :::1
+2022-05-24 18:07:12.1681 INFO Finding User
+2022-05-24 18:07:18.4693 INFO User Not Found
+2022-05-24 18:08:13.4719 INFO Ip Address :::1
+2022-05-24 18:08:13.4939 INFO Finding User
+2022-05-24 18:08:15.0100 INFO User Found
+2022-05-24 18:09:03.2086 INFO Ip Address :::1
+2022-05-24 18:09:03.3861 INFO Proccessing User Registration
+2022-05-24 18:09:03.3998 ERROR National Code Exists 
+2022-05-24 18:11:12.0417 INFO Ip Address :::1
+2022-05-24 18:12:36.4315 INFO Ip Address :::1
+2022-05-24 18:13:40.7942 INFO Ip Address :::1
+2022-05-24 18:13:43.5171 INFO Proccessing User Registration
+2022-05-24 18:13:43.5171 INFO User Has Been Created
+2022-05-24 18:14:18.4189 INFO Ip Address :::1
+2022-05-24 18:14:32.8437 INFO Proccessing User Registration
+2022-05-24 18:14:32.8489 ERROR National Code Exists 
+2022-05-24 18:15:09.0625 INFO Ip Address :::1
+2022-05-24 18:15:13.1266 INFO Proccessing User Registration
+2022-05-24 18:15:15.1005 ERROR PhoneNumber Code Exists 
+2022-05-24 18:16:08.2950 INFO Ip Address :::1
+2022-05-24 18:16:08.4819 INFO Proccessing User Update
+2022-05-24 18:16:08.4819 INFO User Has Been Updated
+2022-05-24 18:16:50.2959 INFO Ip Address :::1
+2022-05-24 18:17:21.2221 INFO Ip Address :::1
+2022-05-24 18:18:55.6306 INFO Ip Address :::1
+2022-05-24 18:19:02.5507 INFO Proccessing User Update
+2022-05-24 18:19:03.8081 ERROR National Code Not Found 
+2022-05-24 18:19:31.7370 INFO Ip Address :::1
+2022-05-24 18:19:35.0068 INFO Proccessing User Update
+2022-05-24 18:19:35.0068 INFO User Has Been Updated
+2022-05-24 18:19:52.7108 INFO Ip Address :::1
+2022-05-24 18:19:52.8047 INFO Proccessing User Deletion
+2022-05-24 18:19:52.8047 ERROR National Code Not Found 
+2022-05-24 18:20:17.8976 INFO Ip Address :::1
+2022-05-24 18:20:17.9486 INFO Proccessing User Deletion
+2022-05-24 18:20:17.9486 INFO User Has Been Deleted
